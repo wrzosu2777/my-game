@@ -1,0 +1,67 @@
+=head1 NAME
+
+racer -  2D car racing game
+
+=head1 SYNOPSIS
+
+racer [-w]
+
+=head1 DESCRIPTION
+
+Racer is a computer game where 1 or two players on the same computer
+race with cars. There is a wide selection of cars (more than 30)
+and 8 different tracks. It is also possible to play career
+where player is buying cars and upgrading them.
+
+=head1 OPTIONS
+
+B<-w> run in windowed mode rather than fullscreen
+
+=head1 CONTOLS
+
+The car is controlled by 1st player
+
+B<arrow up>,B<f>  move accelerate forward (break if going backward)
+
+B<arrow down>,B<v>  break (accelerate if going backward)
+
+B<arrow left>, B<arrow left>  steering
+
+B<space> hand break
+
+B<enter> unstuck/put back on the road
+
+The car is controlled by 2nd player
+
+B<w>  move accelerate forward (break if going backward)
+
+B<s>  break (accelerate if going backward)
+
+B<a>, B<d>  steering
+
+B<lShift> hand break
+
+B<lCtrl> unstuck/put back on the road
+
+=head1 Career
+
+Career mode takes player from the lowest category to the top racing category.
+In every category the player must WIN all cups. Note that the game also
+remembers what difficulty player played while winning. So the next challenge
+is to win all the cups at very difficult level ;-) 
+
+
+=head1 BUGS
+
+The Windows version of this game has sound but it is not available
+on Linux yet.
+
+=head1 SEE ALSO
+
+Homepage of the game is http://hippo.nipax.cz/download.en.php
+but do not expect much.
+
+=head1 AUTHOR
+
+This manual page was written by Bernard Lidicky <bernard@alderan.cz>
+

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Racer
+GenericName=Car racing 2D
+GenericName[cs]=Závody aut ve 2D
+Comment=Choose your car and race
+Icon=racer.xpm
+Exec=racer
+Terminal=false
+StartupNotify=false
+Categories=Game;SportsGame;

@@ -1,0 +1,28 @@
+These are editors for the game data files. They are not needed for 
+the game itself. And they are in czech language anyway. They
+work under wine. You may ignire them if you are creating
+any packagefor a Linux distribution.
+
+Their sourcecode is available at Racer's homepage.
+
+Cheers,
+
+Berny
+
+-- In czech language --
+
+Toto jsou editory ke hre Racer.
+Pokud ji mate v Linuxu, bez problemu mi fungovaly pod wine.
+Pred jejich pouzivanim doporucuji zalohovat aktualni 
+soubory s daty hry.
+Pokud bude hra po zmene souboru hlasit, ze byla poskozena, spustte program
+keygen.exe  (nektere verze mely snad ochranu proti chybam vypnutou, nevim)
+Kdyz budete chtit pouzivat editor na trate a budete chtit videt i podklad 
+trate, budete muzet mozna editor.exe prekopirovat tam, kde mate trate
+ulozene a z tej .jpg s trati vyrobit .bmp dvojnasobne velikosti - editor
+to pak zobrazuje na pozadi.
+Tak hodne stesti pri uprave hry :-)
+
+pozn. - kdyz budete upravovat pohar, je hodne doporucene dodrzet
+stejny pocet zavodu (jako na kusy).
+

@@ -1,0 +1,44 @@
+---- RACER ----
+This is port of Racer from year 2000 into Linux.
+
+-- Prerequisites --
+The game require allegro4  gaming library - usually
+part of distributions http://www.liballeg.org/
+and libjpeg.
+Note Allegro5 is not compatible with Allegro4 required
+by this game.
+
+-- Compile & Run --
+make
+./run.sh
+
+Or possibly
+make install
+
+enjoy :-)
+It is possible to run racer -w which makes the game
+running in a window rather than fullscreen.
+
+-- Controls --
+1st player
+ arrow up,   F  - accelerating (moving front)
+ arrow down, V  - break (moving backward)
+ <- ->          - stearing
+ space          - hand brake
+ enter          - unstuck/put back on the road
+
+2nd player
+ w              - accelerating (moving front)
+ s              - break (moving backward)
+ a,d            - stearing
+ lShift         - hand brake
+ lControl       - unstuck/put back on the road
+
+Esc - pause
+
+
+Credits:
+   Bernard Lidicky  - bernard@alderan.cz
+   Zdenek Boswart   - 2zdeny@seznam.cz
+
+   http://hippo.nipax.cz
